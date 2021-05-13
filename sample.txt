@@ -1,4 +1,8 @@
 Hello from Theran! Where is Brian? Hmmmmm....still not here!
 He still is not here.
 Maybe he is with his family?
+<<<<<<< HEAD
 Come Back Brian!
+=======
+Hello? Brian? You There?
+>>>>>>> 215c143ee2e0969b4e547dc74743c19a8d62de36
